@@ -330,13 +330,11 @@ live_stream_def : _nameless.225.9404.04e0 {
  stream_data[325]: "http://nashe2.hostingradio.ru/ultra-128.mp3|\xd0\xa0\xd0\xb0\xd0\xb4\xd0\xb8\xd0\xbe Ultra|Rock|RU|128|1"
  stream_data[326]: "http://powerhitz.powerhitz.com:2228/;?.mp3|108.fm The Office|Pop/Rock|EN|0|1"
  stream_data[327]: "http://relay.181.fm:8000/;?.mp3|181.fm Awesome 80s|Pop/Rock|EN|0|1"
- stream_data[328]: "http://relay.181.fm:8014/;?.mp3|181.fm 80s Hairband|Rock|EN|0|1"
- stream_data[329]: "http://streaming.radionomy.com/NETROCK101THEANIMAL?.mp3|Netrock101|Metal/Rock|EN|0|1"
- stream_data[330]: "http://relay.181.fm:8030/;?.mp3|181.fm The Eagle|Classic Rock|EN|0|1"
- stream_data[331]: "http://zrockkkzr.com:9000/ZRock128k.mp3/|FromRock106.9|Heavymetal,Hardrock|EN|128|1"
- stream_data[332]: "https://26523.live.streamtheworld.com/ACTIVA_SC|Radio Activa|Pop|ES|128|1"
- stream_data[333]: "https://26373.live.streamtheworld.com/DISNEY_CHI_SA_SC|Radio Disney|Pop|ES|128|1"
- stream_data[334]: "https://18123.live.streamtheworld.com/ROCK_AND_POP_SC|Radio Rock & Pop|Rock/Pop|ES|128|1" 
+ stream_data[328]: "http://relay.181.fm:8030/;?.mp3|181.fm The Eagle|Classic Rock|EN|0|1"
+ stream_data[329]: "https://26523.live.streamtheworld.com/ACTIVA_SC|Radio Activa|Pop|ES|128|1"
+ stream_data[330]: "https://24293.live.streamtheworld.com/DISNEY_CHI_SA_SC|Radio Disney|Pop|ES|128|1"
+ stream_data[331]: "https://27363.live.streamtheworld.com/ROCK_AND_POP_SC|Radio Rock & Pop|Rock/Pop|ES|128|1"
+
 }
 
 }
