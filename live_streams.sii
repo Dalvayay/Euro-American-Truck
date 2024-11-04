@@ -331,9 +331,9 @@ live_stream_def : _nameless.225.9404.04e0 {
  stream_data[326]: "http://powerhitz.powerhitz.com:2228/;?.mp3|108.fm The Office|Pop/Rock|EN|0|1"
  stream_data[327]: "http://relay.181.fm:8000/;?.mp3|181.fm Awesome 80s|Pop/Rock|EN|0|1"
  stream_data[328]: "http://relay.181.fm:8030/;?.mp3|181.fm The Eagle|Classic Rock|EN|0|1"
- stream_data[329]: "https://26523.live.streamtheworld.com/ACTIVA_SC|Radio Activa|Pop|ES|128|1"
- stream_data[330]: "https://24293.live.streamtheworld.com/DISNEY_CHI_SA_SC|Radio Disney|Pop|ES|128|1"
- stream_data[331]: "https://27363.live.streamtheworld.com/ROCK_AND_POP_SC|Radio Rock & Pop|Rock/Pop|ES|128|1"
+ stream_data[329]: "https://26513.live.streamtheworld.com/ACTIVA_SC|Radio Activa|Pop|ES|128|1"
+ stream_data[330]: "https://22823.live.streamtheworld.com/DISNEY_CHI_SA_SC|Radio Disney|Pop|ES|128|1"
+ stream_data[331]: "https://18823.live.streamtheworld.com/ROCK_AND_POP_SC|Radio Rock & Pop|Rock/Pop|ES|128|1"
 
 }
 
